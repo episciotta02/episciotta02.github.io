@@ -1,2 +1,2 @@
-# episciotta02.github.io
-Personal Website
+# type
+Typography styling files
